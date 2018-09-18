@@ -1,0 +1,29 @@
+{
+  "intro": {
+    "title": "Code Page 437",
+    "descriptions": [
+      "Code page 437 is the character set of the original IBM PC, or DOS. It is also known as CP437, OEM-US, OEM 437, PC-8, or DOS Latin US. The set includes ASCII codes 32–126, extended codes for accented letters, some Greek letters, icons, and line-drawing symbols. It is sometimes referred to as the \"OEM font\" or \"high ASCII\", or as \"extended ASCII\".",
+      "If you are a geek and nostalgic to the good old days of DOS, and if you want the DOS VGA font, you have came to the right place!"
+    ]
+  },
+  "codepage": {
+    "title": "Information",
+    "description": "Here you will find the truetype fonts designed to emulate the MS-DOS/Text mode standard font, used on VGA monitors, with the 437 Codepage (standard US/International). This is a \"bitmap\" font, meaning it emulates a bitmap font and can only be used at a given size (8 or multiples of it like 16, 24, 32, etc). It's optimized for Flash too, so it won't produce antialias if used at round positions."
+  },
+  "DOSVGA437": {
+    "title": "Perfect DOS VGA 437",
+    "descriptions": [
+      "Here you will find the truetype fonts designed to emulate the MS-DOS/Text mode standard font, used on VGA monitors, with the 437 Codepage (standard US/International). This is a \"bitmap\" font, meaning it emulates a bitmap font and can only be used at a given size (8 or multiples of it like 16, 24, 32, etc). It's optimized for Flash too, so it won't produce antialias if used at round positions.",
+      "There are two fonts available.",
+      "\"Perfect DOS VGA 437\" uses the original DOS codepage 437. It should be used, for example, if you're opening DOS ASCII files on notepad or another windows-based editor. Since it's faithful to the original DOS codes, it won't accent correctly in windows (\"é\" would produce something different, not an \"e\" with an acute).",
+      "There's also \"Perfect DOS VGA 437 Win\" which is the exactly same font adapted to a windows codepage. This should use accented characters correctly but won't work if you're opening a DOS-based text file."
+    ]
+  },
+  "downloads": {
+    "title": "Downloads",
+    "links": {
+      "PerfectDOSVGA437": "Perfect DOS VGA 437",
+      "PerfectDOSVGA437Win": "Perfect DOS VGA 437 Win"
+    }
+  }
+}

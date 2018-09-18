@@ -1,0 +1,19 @@
+main {
+  margin: 0 auto;
+  padding: 25px;
+  max-width: 800px;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: cyan;
+}
